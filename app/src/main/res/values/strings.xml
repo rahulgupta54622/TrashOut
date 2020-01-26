@@ -1,5 +1,5 @@
 <resources>
-    <string name="google_map_API_KEY">AIzaSyChcDLPXIxjG1t6rgnRUz25ntzHftlKZi8</string>
+    <string name="google_map_API_KEY">your key</string>
     <string name="app_name">TrashOut</string>
     <string name="title_activity_maps">Map</string>
 </resources>
