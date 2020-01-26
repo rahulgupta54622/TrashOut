@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990204041474",
+    "firebase_url": "https://trashout-a8220.firebaseio.com",
+    "project_id": "trashout-a8220",
+    "storage_bucket": "trashout-a8220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990204041474:android:c316512371424d0331ca1b",
+        "android_client_info": {
+          "package_name": "com.gupta54622.rahul.trashout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990204041474-7m8gv23u33nms46cf6lgamblfvs086tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh4iA-eWn1hRmvJDBmlXppNco67LRgUfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990204041474-7m8gv23u33nms46cf6lgamblfvs086tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
