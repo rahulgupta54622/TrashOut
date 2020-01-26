@@ -2,4 +2,8 @@
     <string name="google_map_API_KEY">AIzaSyChcDLPXIxjG1t6rgnRUz25ntzHftlKZi8</string>
     <string name="app_name">TrashOut</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_activity_waste_bin_tracker">Map</string>
+    <string name="title_activity_individual_garbage_level_tracker">
+        IndividualGarbageLevelTrackerActivity
+    </string>
 </resources>

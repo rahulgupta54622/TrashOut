@@ -37,4 +37,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void trackDustbin(View view) {
+
+      moveToActivity(IndividualGarbageLevelTrackerActivity.class);
+    }
 }

@@ -16,7 +16,10 @@
         android:roundIcon="@drawable/icons8_trash_can_64"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ActivityTrashView"></activity>
+        <activity
+            android:name=".IndividualGarbageLevelTrackerActivity"
+            android:label="@string/title_activity_individual_garbage_level_tracker"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -29,6 +32,10 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
 
+        <activity
+            android:name=".MapsActivityWasteBinTracker"
+            android:label="@string/title_activity_waste_bin_tracker" />
+        <activity android:name=".ActivityTrashView" />
         <activity
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps">
